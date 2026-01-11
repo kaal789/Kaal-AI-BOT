@@ -1,0 +1,9 @@
+{
+  "name": "Gemini Ultra Chat",
+  "description": "A high-fidelity multimodal AI chatbot with Live Multimodal Mode, vision sync, image generation, and video creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
